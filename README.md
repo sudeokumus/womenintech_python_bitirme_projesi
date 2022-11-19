@@ -2,7 +2,11 @@
 
 Hayırlı olsunnn
 
-**1. customer_data**
+![title](images/e-commerce.png)
+
+9 farklı veri setimiz bulunmaktadır:
+
+**1. customer_data:** Müşteriler hakkında bilgi verir.
 
 | Değişken Adı | Açıklama |
 | ----------------- | ----------- |
@@ -12,7 +16,7 @@ Hayırlı olsunnn
 | musteri_sehir | Müşteriye ait şehir bilgisi. |
 | musteri_eyalet | Müşteriye ait eyalet bilgisi. |
 
-**2. geolocation_data**
+**2. geolocation_data:** Konuma ait bilgiler taşımaktadır.
 
 | Değişken Adı | Açıklama |
 | ----------------- | ----------- |
@@ -22,7 +26,7 @@ Hayırlı olsunnn
 | sehir | Konuma ait şehir bilgisi. |
 | eyalet | Konuma ait eyalet bilgisi. |
 
-**3. items_data**
+**3. items_data:** Siparişe ait bilgiler verir.
 
 | Değişken Adı | Açıklama |
 | ----------------- | ----------- |
@@ -34,7 +38,7 @@ Hayırlı olsunnn
 | urun_fiyat | Sipariş edilen ürünlerin gerçek fiyatı. |
 | nakliye_ucreti | Nakliye ücreti. |
 
-**4. payments_data**
+**4. payments_data:** Ödemeye ait bilgiler verir.
 
 | Değişken Adı | Açıklama |
 | ----------------- | ----------- |
@@ -44,7 +48,7 @@ Hayırlı olsunnn
 | taksit_sayisi | Yapılan taksit sayısı. |
 | odeme_degeri | Sipariş için ödenen toplam tutar. |
 
-**5. reviews_data - yorumlar**
+**5. reviews_data - yorumlar:** Alışveriş deneyimi hakkında incelemeler içerir.
 
 | Değişken Adı | Açıklama |
 | ----------------- | ----------- |
@@ -54,7 +58,7 @@ Hayırlı olsunnn
 | yorum_olusturma_tarihi | Yapılan yoruma ait tarih bilgisi. |
 | yoruma_donus_tarihi | Verilen yanıta ait zaman bilgisi. |
 
-**6. orders_data - siparisler**
+**6. orders_data - siparisler:** Siparişe ait bilgiler verir.
 
 | Değişken Adı | Açıklama |
 | ----------------- | ----------- |
@@ -68,7 +72,7 @@ Hayırlı olsunnn
 | tahmini_teslim_tarihi | satın alma anında müşteriye bildirilen tahmini teslim tarihini gösterir. |
 
 
-**7. translations_data**
+**7. translations_data:** Ürün kategorisine ait Portekizce ve İngilizce bilgi içerir.
 
 | Değişken Adı | Açıklama |
 | ----------------- | ----------- |
@@ -76,7 +80,7 @@ Hayırlı olsunnn
 | urun_kategori_en | Ürüne ait İngilizce kategori adı. |
 
 
-**8. products_data**
+**8. products_data:** Ürünlere ait bilgiler verir.
 
 | Değişken Adı | Açıklama |
 | ----------------- | ----------- |
@@ -90,7 +94,7 @@ Hayırlı olsunnn
 | urun_yukseklik_cm  | Santimetre cinsinden ölçülen ürün yüksekliği. |
 | urun_genislik_cm  | Santimetre cinsinden ölçülen ürün genişliği. |
 
-**9. sellers_data**
+**9. sellers_data:** Satıcıya ait bilgiler verir.
 
 | Değişken Adı | Açıklama |
 | ----------------- | ----------- |
