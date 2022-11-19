@@ -1,3 +1,3 @@
-# womenintech_python_bitirme_projesi
-Women in Tech Academy Bitirme Projem
+# 🛍️ E-Ticaret Veri Seti 🛒
+
 Hayırlı olsunnn
