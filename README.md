@@ -82,17 +82,6 @@ Hayırlı olsunnn
 | ----------------- | ----------- |
 | urun_id | Siparişe edilen ürüne yapılan yoruma ait id değeri. |
 | urun_kategori_pt | Siparişe ait eşşiz id değeri. |
-| yorum_puan | 1-5 ölçeğinde, müşteri tarafından verilen inceleme puanı. |
-| yorum_olusturma_tarihi | Yapılan yoruma ait tarih bilgisi. |
-| yoruma_donus_tarihi | Verilen yanıta ait zaman bilgisi. |
-
-
-**9. sellers_data**
-
-| Değişken Adı | Açıklama |
-| ----------------- | ----------- |
-| yorum_id | Sipariş edilen ürüne yapılan yoruma ait id değeri. |
-| siparis_id | Siparişe ait eşşiz id değeri. |
 | urun_adi_uzunluk | Ürün adına ait karakter sayısı. |
 | urun_aciklama_uzunluk | Ürün açıklamasına ait karakter sayısı. |
 | urun_fotograf_sayisi | Yayınlanan ürün fotoğraf sayısı. |
@@ -100,3 +89,12 @@ Hayırlı olsunnn
 | urun_uzunluk_cm | Santimetre cinsinden ölçülen ürün uzunluğu. |
 | urun_yukseklik_cm  | Santimetre cinsinden ölçülen ürün yüksekliği. |
 | urun_genislik_cm  | Santimetre cinsinden ölçülen ürün genişliği. |
+
+**9. sellers_data**
+
+| Değişken Adı | Açıklama |
+| ----------------- | ----------- |
+| satici_id | Satıcıya ait id bilgisi. |
+| satici_posta_kodu | Satıcıya ait posta kodunun ilk 5 hanesi. |
+| satici_sehir | Satıcıya ait şehir bilgisi. |
+| satici_eyalet | Satıcıya ait eyalet bilgisi. |
