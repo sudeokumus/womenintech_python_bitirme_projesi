@@ -1,10 +1,10 @@
 # 🛍️ E-Ticaret Veri Seti 🛒
 
-Hayırlı olsunnn
-
 ![title](images/e-commerce.png)
 
-9 farklı veri setimiz bulunmaktadır:
+## Veri Seti Hikayesi 📖
+
+9 farklı veri setimiz bulunmaktadır. Bunlar:
 
 **1. customer_data:** Müşteriler hakkında bilgi verir.
 
@@ -102,3 +102,33 @@ Hayırlı olsunnn
 | satici_posta_kodu | Satıcıya ait posta kodunun ilk 5 hanesi. |
 | satici_sehir | Satıcıya ait şehir bilgisi. |
 | satici_eyalet | Satıcıya ait eyalet bilgisi. |
+
+
+## Kullanılan Kütüphaneler 📚
+
+* NumPy
+* Matplotlib
+* Pandas
+* Seaborn
+* warnings
+
+## Yapılan Analizlerden Kesitler 🔍
+
+* Aylara Göre Sipariş Sayısı
+
+![title](images/aylara_gore_siparis_sayisi.png)
+
+* Siparişlerin Dağılımı
+
+![title](images/geolocation.png)
+
+* En Çok Alışveriş Yapan 10 Müşteri
+
+![title](images/en_cok_alisveris_yapan_musteriler_id.png)
+
+* Siparişlerle İlgili Analizler
+
+![title](images/siparis_analizler.png)
+
+
+**Daha fazla detaya erişebilmek için analizler.ipynb isimli dosyayı inceleyebilirsiniz. 🪄**
