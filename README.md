@@ -131,4 +131,4 @@
 ![title](images/siparis_analizler.png)
 
 
-**Daha fazla detaya erişebilmek için analizler.ipynb isimli dosyayı inceleyebilirsiniz. 🪄**
+**Daha fazla detaya erişmek için: [analizler.ipynb](analizler.ipynb) 🪄**
